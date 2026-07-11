@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-19T16:15:26 IST" name="Suite" finished-at="2026-04-19T16:15:35 IST" duration-ms="9699">
+    <groups>
+    </groups>
+    <test started-at="2026-04-19T16:15:26 IST" name="Test" finished-at="2026-04-19T16:15:35 IST" duration-ms="9699">
+      <class name="firstPractice.Testing">
+        <test-method signature="launchChromeBrowser()[pri:0, instance:firstPractice.Testing@73a1e9a9]" started-at="2026-04-19T16:15:26 IST" name="launchChromeBrowser" finished-at="2026-04-19T16:15:31 IST" duration-ms="4946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchChromeBrowser -->
+        <test-method signature="launchFirefoxBrowser()[pri:0, instance:firstPractice.Testing@73a1e9a9]" started-at="2026-04-19T16:15:26 IST" name="launchFirefoxBrowser" finished-at="2026-04-19T16:15:35 IST" duration-ms="9623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchFirefoxBrowser -->
+      </class> <!-- firstPractice.Testing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
