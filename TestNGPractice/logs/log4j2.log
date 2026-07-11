@@ -1,0 +1,12 @@
+[TRACE] 2026-07-06 09:27:16.154 [main] Log4JExample - This is the trace getting when start execution for this method
+[DEBUG] 2026-07-06 09:27:16.156 [main] Log4JExample - This is the debug getting when start execution for this method
+[INFO ] 2026-07-06 09:27:16.158 [main] Log4JExample - This is the information getting when start execution for this method
+[WARN ] 2026-07-06 09:27:16.159 [main] Log4JExample - This is the warning message getting when start execution for this method
+[ERROR] 2026-07-06 09:27:16.159 [main] Log4JExample - This is the error message getting when start execution for this method
+[FATAL] 2026-07-06 09:27:16.159 [main] Log4JExample - This is the fetal message getting when start execution for this method
+[INFO ] 2026-07-06 09:29:57.095 [main] Log4JExample - This is the information getting when start execution for this method
+[WARN ] 2026-07-06 09:29:57.098 [main] Log4JExample - This is the warning message getting when start execution for this method
+[ERROR] 2026-07-06 09:29:57.098 [main] Log4JExample - This is the error message getting when start execution for this method
+[FATAL] 2026-07-06 09:29:57.099 [main] Log4JExample - This is the fetal message getting when start execution for this method
+[ERROR] 2026-07-06 09:30:13.602 [main] Log4JExample - This is the error message getting when start execution for this method
+[FATAL] 2026-07-06 09:30:13.604 [main] Log4JExample - This is the fetal message getting when start execution for this method
