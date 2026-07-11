@@ -34,7 +34,7 @@ public class Testing {
 
 	@Test(dependsOnMethods = "signUp", invocationCount = 3, invocationTimeOut = 10000, threadPoolSize = 3)
 	public void login() {
-		System.out.println("Logged in successfully");
+		System.out.println("Logged into the application successfully");
 		
 	}
 
