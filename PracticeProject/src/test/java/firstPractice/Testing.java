@@ -24,6 +24,7 @@ public class Testing {
 		WebDriverManager.firefoxdriver().setup();
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.flipkart.com/");
+		driver.manage().window().maximize();
 	}
 
 	@Test
